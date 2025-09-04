@@ -1,4 +1,6 @@
 Customer Churn Prediction 📊
+
+
 This project predicts whether a telecom customer will churn or stay, using the Telco Customer Churn dataset. It includes data cleaning, preprocessing, feature engineering, and model training with Logistic Regression, Random Forest, and XGBoost.
 
 The project is fully reproducible with Python, Scikit-learn, and Jupyter, and provides ROC curve comparisons and feature importance analysis to connect technical results with real business insights.
